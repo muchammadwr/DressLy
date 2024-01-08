@@ -78,6 +78,10 @@ header #navigation {
   gap: 1.5rem;
 }
 
+.hamburger {
+  display: none;
+}
+
 /* Hero Section */
 
 #hero .main_container {
