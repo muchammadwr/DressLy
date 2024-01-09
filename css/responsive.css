@@ -1,4 +1,12 @@
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
+    #navigation .nav_bar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 76.25rem;
+        height: 122px;
+        margin: 0 110px 0 110px;
+      }
 }
 
 @media screen and (max-width: 825px) {

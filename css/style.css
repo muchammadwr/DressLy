@@ -82,6 +82,10 @@ header #navigation {
   display: none;
 }
 
+.cancel {
+  display: none;
+}
+
 /* Hero Section */
 
 #hero .main_container {
