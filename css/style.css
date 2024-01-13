@@ -44,7 +44,7 @@ header #navigation {
   padding: 3rem 0;
 }
 
-#navigation .nav_bar {
+#navigation .main_container {
   display: flex;
   align-items: center;
   justify-content: space-between;
